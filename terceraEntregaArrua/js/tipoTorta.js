@@ -1,0 +1,5 @@
+guardarTamanoLS (tiposTorta)
+
+renderProducto ()
+
+
